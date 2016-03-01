@@ -9,3 +9,10 @@ p {color: blue}
 <p>Hello world!</p>
 </body>
 </html>
+<p>
+color: white
+background- color: black
+border: 10px groove red 
+padding: 5px
+margin: 7px
+</p>
